@@ -128,7 +128,6 @@ By combining AI with a user-friendly healthcare booking system, Sanjeevani ensur
 - **Voice Support**: Web Speech API  
 
 ---
-
 ## 📸 Screenshots
 
 ### HomePage 
