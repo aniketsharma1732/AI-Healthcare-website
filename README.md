@@ -33,7 +33,6 @@ By combining AI with a user-friendly healthcare booking system, Sanjeevani ensur
 - Frontend: React.js (`useState`, `useEffect`)  
 
 ---
-
 ### 2. Multi-Lingual Voice Support   
 - Full **voice accessibility** in multiple Indian languages (Hindi, Bengali, Tamil, etc.).  
 - Users can **speak symptoms** and **hear AI responses**.  
